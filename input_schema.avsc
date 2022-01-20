@@ -1,0 +1,7 @@
+{
+    "type":"record",
+    "name":"input",
+    "fields":[
+        {"name": "x", "type": "float"}
+    ]
+}
